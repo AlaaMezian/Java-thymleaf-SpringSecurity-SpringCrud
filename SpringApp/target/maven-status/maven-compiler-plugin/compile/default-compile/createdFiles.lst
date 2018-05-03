@@ -1,0 +1,14 @@
+com\example\Entity\Role.class
+com\example\config\SecurityConfiguration.class
+com\example\repository\ProductRepository.class
+com\example\load\DataLoader.class
+com\example\Entity\Product.class
+com\example\repository\RoleRespository.class
+com\example\controller\UserController.class
+com\example\config\WebMvcConfig.class
+com\example\controller\ProductController.class
+com\example\Entity\User.class
+com\example\app\SpringAppApplication.class
+com\example\repository\UserRepository.class
+com\example\service\UserServiceImpl.class
+com\example\service\UserService.class
